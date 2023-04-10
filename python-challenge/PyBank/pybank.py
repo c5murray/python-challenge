@@ -1,6 +1,6 @@
 import csv
 
-csvpath = "Resources/budget_data.csv"
+csvpath = "budget_data.csv"
 
 # Reading in the file.
 
